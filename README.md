@@ -1,5 +1,5 @@
 # Marin Azhar
-NYC | CUNY Queens College | Azhar.Marin@gmail.com | [GitHub](https://github.com/marin-25) | [Linkedin](https://www.linkedin.com/in/marin-azhar-b996361b3/)
+NYC | CUNY Queens College | Azhar.Marin@gmail.com | [GitHub](https://github.com/marin-25) | [Linkedin](https://www.linkedin.com/in/marin-azhar-b996361b3/) | [Resume](https://docs.google.com/document/d/1vH6zz1Yb6Slsw3JN27XEn0ed8v7KjRm6eTP-B2VOw34/edit)
 
 ## Introduction:
 Young professional with experiences in Data Science/Analytics, Project Management, and Event Coordinating.
